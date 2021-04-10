@@ -11,6 +11,9 @@ public class Questions {
 		System.out.println("bekir 'den merkeze 3");
 		
 		System.out.println("bekir branch' inde yazdigi kodlar hazir");
+		
+		System.out.println("bekir'den yeni codlar geldi");
+		System.out.println("bekir'den yeni codlar geldi2");
 
 	}
 
